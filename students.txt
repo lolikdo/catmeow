@@ -1,6 +1,0 @@
-text
-
-Ivan 78
-Maria 92
-Oleg 67
-Anna 85
